@@ -1,10 +1,13 @@
 ### Hola, I am Hardik Sharma! 👋
+<hr>
 
 - 🔭 I’m currently working on API projects
 - 🌱 I’m currently learning NodeJs and ReactJs
 - 💬 Ask me about CP, WebDev or any Tech related stuff
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I leave my laptop on sleep while sleeping
+
+<hr>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=hardiksharma11&&show_icons=true&title_color=3c1d8f&icon_color=bb2acf&text_color=000000&bg_color=c6c3d3">
