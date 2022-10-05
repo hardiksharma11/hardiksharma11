@@ -1,5 +1,5 @@
-### Hola, I am Hardik Sharma! 👋
-<hr>
+## Hola, I am Hardik Sharma! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 - 🔭 I’m currently working on API projects
 - 🌱 I’m currently learning NodeJs and ReactJs
