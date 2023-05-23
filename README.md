@@ -1,4 +1,4 @@
-## Hola, I am Hardik Sharma! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hola, I am Hardik Sharma! <img src="https://em-content.zobj.net/thumbs/160/apple/354/waving-hand_1f44b.png" width="30px">
 
 
 - 🔭 I’m currently working on API projects
