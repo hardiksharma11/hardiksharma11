@@ -3,8 +3,8 @@
 
 ## About Me
 
-- 🔭 I’m currently working on API projects.
-- 🌱 I’m currently learning Node.js and React.js.
+- 🔭 I’m currently working on Full Stack MERN projects.
+- 🌱 I’m currently learning NextJS.
 - 💬 Ask me about Competitive Programming, Web Development, or any Tech-related stuff.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I leave my laptop on sleep while sleeping.
