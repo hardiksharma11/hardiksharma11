@@ -4,7 +4,7 @@
 ## About Me
 
 - 🔭 I’m currently working on Full Stack MERN projects.
-- 🌱 I’m currently learning NextJS.
+- 🌱 I’m currently learning about Blockchains.
 - 💬 Ask me about Competitive Programming, Web Development, or any Tech-related stuff.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I leave my laptop on sleep while sleeping.
