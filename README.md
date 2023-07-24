@@ -11,8 +11,7 @@
 
 ## GitHub Stats
 
-[![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardiksharma11&show_icons=true&theme=radical)](https://github.com/hardiksharma11)
-
+![hardiksharma11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksharma11&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 ## Skills
 
 Here are some of the skills I possess:
